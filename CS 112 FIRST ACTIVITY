@@ -1,0 +1,6 @@
+print('Complete Name:' 'Ryan Hermoso')
+print('Course: BS COMPUTER SCIENCE')
+print('Section: Cs 1E')
+print('Age:21')
+print('Birthday: July 31, 2002')
+print('Complete Home Address: Upper Palalan Lumbia, Cagayn de Oro City ')
